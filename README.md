@@ -26,4 +26,5 @@ desenvolvimento de um e-commerce com funcionalidades completas, incluindo cadast
 - Login do Usuário: Implementação do sistema de login e autenticação de usuários. (2 pontos)
 
 Link do projeto final: https://shopit-v2-hv2g.onrender.com/
+
 👩‍💻 Responsável: Maria Marcela Sousa
