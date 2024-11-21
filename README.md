@@ -25,4 +25,5 @@ desenvolvimento de um e-commerce com funcionalidades completas, incluindo cadast
 - Filtros no Front: desenvolvimento de funcionalidades de filtro de produtos na interface. (2 pontos)
 - Login do Usuário: Implementação do sistema de login e autenticação de usuários. (2 pontos)
 
-👩‍💻 Responsável pelo projeto: Maria Marcela Sousa
+Link do projeto final: https://shopit-v2-hv2g.onrender.com/
+👩‍💻 Responsável: Maria Marcela Sousa
